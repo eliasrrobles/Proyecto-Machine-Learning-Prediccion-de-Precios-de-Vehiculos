@@ -22,7 +22,7 @@ Para ello, se ha creado un pipeline completo de Machine Learning que:
 ├── /Dataset/
 │   └── car_prices.csv
 └── /Models-Data-Import/
-    └── (Archivos de Modelos y otros)
+    └── (Archivos de Modelos y otros) # Faltan los RandomForest porque pesan mucho.
 ```
 
 ## **📊 3. Contenido del Notebook**
