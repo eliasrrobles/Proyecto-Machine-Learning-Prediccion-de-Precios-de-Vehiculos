@@ -21,7 +21,7 @@ Para ello, se ha creado un pipeline completo de Machine Learning que:
 │   └── (Imagenes usadas en el cuaderno)
 ├── /Dataset/
 │   └── car_prices.csv
-└── /Dataset/
+└── /Models-Data-Import/
     └── (Archivos de Modelos y otros)
 ```
 
